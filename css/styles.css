@@ -9,6 +9,9 @@ body{
 
 h1,h2{
     color: magenta;
+    display: inline;
+    text-transform: capitalize;
+    text-align: center;
 }
 
 a{
