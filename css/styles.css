@@ -1,0 +1,13 @@
+body{
+    font-family: CopperPot,Helvetica,sans-serif;
+    display: block;
+    font-weight: 700;
+    font-size: 1.75rem;
+    line-height: 2.125rem;
+    text-underline-offset: 0.4375rem;
+}
+
+a{
+    cursor: pointer;
+    color: magenta;
+}
