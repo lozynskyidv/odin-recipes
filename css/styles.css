@@ -7,6 +7,10 @@ body{
     text-underline-offset: 0.4375rem;
 }
 
+h1,h2{
+    color: magenta;
+}
+
 a{
     cursor: pointer;
     color: magenta;
