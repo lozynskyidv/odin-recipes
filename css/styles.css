@@ -1,17 +1,18 @@
 body{
     font-family: CopperPot,Helvetica,sans-serif;
     display: block;
-    font-weight: 700;
     font-size: 1.75rem;
-    line-height: 2.125rem;
+    line-height: 2rem;
     text-underline-offset: 0.4375rem;
+    font-weight: 300;
 }
 
 h1,h2{
     color: magenta;
     display: inline;
     text-transform: capitalize;
-    text-align: center;
+    font-weight: 700;
+    line-height: 4.125rem;
 }
 
 a{
