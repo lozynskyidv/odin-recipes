@@ -1,1 +1,0 @@
-The project is a recipes website and it helps me to demonstrate my HTML skills.
